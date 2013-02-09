@@ -29,7 +29,8 @@ After spending a few years working with a four wall CAVE environment, I became v
 Getting Started
 ===============
 
-Full setup instructions to follow shortly in the wiki
+Full setup instructions and additional information available in the the wiki   
+https://github.com/c-flynn/SCRAPE/wiki
 
 
 Videos
