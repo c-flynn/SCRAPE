@@ -30,7 +30,7 @@ Getting Started
 ===============
 
 Full setup instructions and additional information available in the the wiki   
-https://github.com/c-flynn/SCRAPE/wiki/Getting-Started
+https://github.com/c-flynn/SCRAPE/wiki
 
 
 Videos
