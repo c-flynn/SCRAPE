@@ -14,7 +14,7 @@ Imagine you enter a cube shaped room.  The room is totally bare.  There is nothi
 
 OK, so our CAVE may not be the 'Ultimate CAVE' but it's still pretty darn cool!
 
-![SCRAPE in a CAVE](https://dl.dropbox.com/u/29093681/SCRAPE-in-a-CAVE.jpg)
+[ ![Image](https://dl.dropbox.com/u/29093681/SCRAPE-in-a-CAVE.jpg "SCRAPE in a CAVE") ](https://www.youtube.com/watch?v=Wz4LDeIwH18 "SCRAPE In A CAVE")
 
 
 What's Processing?
