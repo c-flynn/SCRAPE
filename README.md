@@ -40,7 +40,7 @@ https://github.com/c-flynn/SCRAPE/wiki
 Videos
 ======
 
-Desktop Demo: https://www.youtube.com/watch?v=eqK2TW1vxf4
+Desktop Demo: https://www.youtube.com/watch?v=eqK2TW1vxf4  
 CAVE Demo: http://www.youtube.com/watch?v=Wz4LDeIwH18
 
 
