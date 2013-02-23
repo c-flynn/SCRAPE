@@ -12,6 +12,8 @@ What's a CAVE?
 
 Imagine you enter a cube shaped room.  The room is totally bare.  There is nothing to be seen.  All of a sudden the walls, floor and ceiling come alive.  You are surrounded by a wonderful exhibition of animated images that are linked together to create a stunning panoramic display.  All around you, you can hear a multitude of different sounds.  The animated images start to gain depth and the walls gently melt away as you become completely immersed in a fully 3D world.  You move your body in different ways and as you do so you begin to interact with and control this new world.  Welcome to the ultimate CAVE!
 
+![SCRAPE in a CAVE](https://dl.dropbox.com/u/29093681/SCRAPE-in-a-CAVE.jpg)
+
 
 What's Processing?
 ==================
