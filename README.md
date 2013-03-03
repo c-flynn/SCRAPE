@@ -44,6 +44,13 @@ Desktop Demo: https://www.youtube.com/watch?v=eqK2TW1vxf4
 CAVE Demo: http://www.youtube.com/watch?v=Wz4LDeIwH18
 
 
+Nunchuckoo
+==========
+
+Don't forget to check out SCRAPE's sister project 'Nunchuckoo' which shows you how to hook up a Wii Nunchuck to SCRAPE:
+https://github.com/c-flynn/Nunchuckoo
+
+
 Credits
 =======
 
