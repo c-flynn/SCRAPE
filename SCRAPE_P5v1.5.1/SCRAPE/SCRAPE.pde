@@ -149,7 +149,7 @@ float y;
   // Call arduino and nunchuck controller function if activated in config file 
   if(nunchuck.equals("on")){
     println("Nunchuck is set to 'on'");
-    nunchucky();
+    nunchuckoo();
   }
   else{
     println("Nunchuck is set to 'off'");

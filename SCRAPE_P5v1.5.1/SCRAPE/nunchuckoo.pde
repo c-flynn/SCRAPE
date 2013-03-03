@@ -8,7 +8,7 @@ final int BAUD_RATE = 19200;
 
 Serial arduinoPort;
 
- void nunchucky(){
+ void nunchuckoo(){
   try{
     // Checks ports to see if a serial device is connected
     String[] ports = Serial.list();
@@ -18,8 +18,8 @@ Serial arduinoPort;
     else{  
       println("NOTICE: serial list is : ");
       println(ports);
-      println("If your nunchuck and arduino are plugged in and not working, check that you are specifying the correct serial list port and that BAUD rates are correct on the computers COM port and also that ther is no RXTX Version mismatch on processing output window. See nunchucky.pde code comments for more info" + '\n');
-      // The printed serial list you should be able to determine which port your nunchuck is plugged into
+      println("If your nunchuck and arduino are plugged in and not working, check that you are specifying the correct serial list port and that BAUD rates are correct on the computers COM port and also that there is no RXTX Version mismatch on processing output window. See https://github.com/c-flynn/Nunchuckoo/issues for more info" + '\n');
+      // Using the printed serial list you should be able to determine which port your nunchuck is plugged into
       // This will help you determine which array index number needs to be used for serial.list()array below
       arduinoPort = new Serial(this, Serial.list()[0], BAUD_RATE);
       arduinoPort.bufferUntil(LINE_FEED);
@@ -27,7 +27,7 @@ Serial arduinoPort;
   }
   catch(Exception e){
     println(e);
-    println("NOTICE: Could not run nunchucky! Ensure that your wii nunchuck and arduino are connected correctly" + '\n');
+    println("NOTICE: Could not run nunchuckoo! Ensure that your wii nunchuck and arduino are connected correctly" + '\n');
   }
  }
 
