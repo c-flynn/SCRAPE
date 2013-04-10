@@ -2,7 +2,7 @@ SCRAPE
 ======
 
 **SCR**een **A**djusted **P**anoramic **E**ffect    
-Transfer 3D worlds developed in Processing to a CAVE Automatic Virtual Environment (CAVE)
+Transfer 3D worlds developed in Processing to a CAVE Automatic Virtual Environment (CAVE) 
 
 ![SCRAPE logo](https://dl.dropbox.com/u/29093681/SCRAPE_logo.png)
 
