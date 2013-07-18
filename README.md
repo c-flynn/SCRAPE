@@ -64,4 +64,4 @@ All made possible by:
  *   The playful Arduino - http://www.arduino.cc/
  *   The pure joy that is Processing - http://processing.org/
 
-[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/dacefad7f32fea76d2f97050dadc90db "githalytics.com")](http://githalytics.com/c-flynn/SCRAPE)
+[![githalytics.com alpha](https://cruel-carlota.gopagoda.com/dacefad7f32fea76d2f97050dadc90db "githalytics.com")](http://githalytics.com/c-flynn/SCRAPE)
