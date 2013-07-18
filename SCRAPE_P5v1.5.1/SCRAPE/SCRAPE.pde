@@ -7,7 +7,7 @@
  *   The multi-talented Most Pixels Ever (MPE) - https://github.com/shiffman/Most-Pixels-Ever/
  *   The superlative Obsessive Camera Direction (OCD) - http://gdsstudios.com/processing/libraries/ocd/
  *   The joyous proCONTROLL - http://creativecomputing.cc/p5libs/procontroll/
- *   The eye-popping 'stereo' - http://angusforbes.github.com/stereo/
+ *   The eye-popping 'stereo' - https://github.com/CreativeCodingLab/stereo/
  *   The playful Arduino - http://www.arduino.cc/
  *   The pure joy that is Processing - http://processing.org/
  *
